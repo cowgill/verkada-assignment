@@ -22,7 +22,7 @@ I prefer using a GUI tool like [Postico](https://eggerapps.at/postico2/) or [PSe
 
 #### Clone the repo
 ```bash
-git clone verkada-assignment
+git clone git@github.com:cowgill/verkada-assignment.git
 ```
 
 

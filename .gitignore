@@ -9,6 +9,7 @@ __pycache__/
 
 # Exclude local .csv files
 data/*
+!data/example.csv
 
 # Mac files
 .DS_Store
